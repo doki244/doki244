@@ -1,4 +1,4 @@
-### Hi there 👋 I'm amir hasan ebrahimi
+### Hi there 👋 I'm amir hassan ebrahimi
 <!--
 **doki244/doki244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
